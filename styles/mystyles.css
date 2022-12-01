@@ -1,0 +1,110 @@
+
+.header69{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    font-size: 100px;
+}
+
+.li80s{
+    background-color: darkgrey;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.body80{
+    background-image: url(../img/galaxy.jpg);
+}
+.anchor{
+    background-color: #cccccc;
+    border: 2px solid white;
+}
+
+.listlfont{
+    font-style: italic;
+    text-align: center;
+    font-weight: normal;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.iframecontainer{
+    position: relative;
+    width: 50%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframecontainer iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+.myfont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.subhead{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: inherit;
+}
+
+.listfont{
+    font-style: italic;
+    text-align: left;
+    font-weight: normal;
+}
+
+
+
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+
+.myimg{width: 50% !important;}
+
+.myitalics{font-style: italic;}
+
+.myheaders{text-align: center;}
+
+.mylist{list-style-type: square;}
+
+.aligncenter{text-align: center;}
+
+.bold{font-weight: bold;}
+
+li{
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.p80{
+    font-size: 20px;
+
+}
+
+.underline{text-decoration: underline;}
+
+.imgleft {
+	max-width: 480px;
+	width: 100%;
+	height: auto;
+        display: block;
+        margin-left: 20%;
+	
+    }
