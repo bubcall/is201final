@@ -19,6 +19,7 @@
 .anchor{
     background-color: #cccccc;
     border: 2px solid white;
+    font-family: initial !important;
 }
 
 .listlfont{
