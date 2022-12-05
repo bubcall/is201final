@@ -29,3 +29,18 @@
     background-color: white;
     border: 1px solid black;
 }
+.foot{
+    position: fixed;
+    bottom: 5px;
+    text-align: center;
+}
+
+.vidz{
+    width: 40%;
+    inset-inline-start: 20px;
+    display: inline;
+
+}
+.imgmax{
+    width: 40%;
+ }
